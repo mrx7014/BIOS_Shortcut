@@ -1,6 +1,6 @@
-This is a small guide to make a shortcut open BIOS Without using keys like f9 f12 on boot.
+# This is a small guide to make a shortcut open BIOS Without using keys like f9 f12 on boot.
 ____
-First
+# Guide
 
 right click --> new and Create shortcut
 
