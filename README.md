@@ -2,14 +2,14 @@
 ____
 # Guide
 
-right click --> new and Create shortcut
+- right click --> new and Create shortcut
 
-And in the location box type this command
+- And in the location box type this command
 sh shutdown /r /fw /t 1 and save it
 
-Then press Right Click on shortcut go to shortcut --> advanced and check run as adminstrator and save it
+- Then press Right Click on shortcut go to shortcut --> advanced and check run as adminstrator and save it
 
-Now double click on shortcut and it will restart to BIOS
+- Now double click on shortcut and it will restart to BIOS
 
 ___
 
